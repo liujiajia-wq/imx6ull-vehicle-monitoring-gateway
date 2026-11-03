@@ -1,0 +1,1 @@
+CSRCS += $(shell find -L $(LVGL_DIR)/screens -name "*.c")

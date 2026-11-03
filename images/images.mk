@@ -1,0 +1,1 @@
+CSRCS += $(shell find -L $(LVGL_DIR)/images -name "*.c")
